@@ -60,6 +60,9 @@ p {
     text-align: center;
 }
 
+#attractions h2 { 
+    background-color: blue;
+}
 .attraction img {
     max-width: 100%;
     height: auto;
